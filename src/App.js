@@ -13,6 +13,7 @@ function App() {
         <Navbar />
         <Wrapper>
           <Route exact path="/" component={Directory} />
+          <Route exact path="/react-app-employee-management-system/" component={Directory} />
           <Route exact path="/directory" component={Directory} />
           <Route exact path="/search" component={Search} />
         </Wrapper>
