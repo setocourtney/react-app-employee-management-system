@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-employee-management-system/static/css/main.cee1a94a.chunk.css",
+    "main.js": "/react-app-employee-management-system/static/js/main.6c4b8d7c.chunk.js",
+    "main.js.map": "/react-app-employee-management-system/static/js/main.6c4b8d7c.chunk.js.map",
+    "runtime-main.js": "/react-app-employee-management-system/static/js/runtime-main.531a5844.js",
+    "runtime-main.js.map": "/react-app-employee-management-system/static/js/runtime-main.531a5844.js.map",
+    "static/js/2.a6779452.chunk.js": "/react-app-employee-management-system/static/js/2.a6779452.chunk.js",
+    "static/js/2.a6779452.chunk.js.map": "/react-app-employee-management-system/static/js/2.a6779452.chunk.js.map",
+    "index.html": "/react-app-employee-management-system/index.html",
+    "precache-manifest.c302286acfac00e8957a714aca009ad4.js": "/react-app-employee-management-system/precache-manifest.c302286acfac00e8957a714aca009ad4.js",
+    "service-worker.js": "/react-app-employee-management-system/service-worker.js",
+    "static/css/main.cee1a94a.chunk.css.map": "/react-app-employee-management-system/static/css/main.cee1a94a.chunk.css.map",
+    "static/js/2.a6779452.chunk.js.LICENSE.txt": "/react-app-employee-management-system/static/js/2.a6779452.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531a5844.js",
+    "static/js/2.a6779452.chunk.js",
+    "static/css/main.cee1a94a.chunk.css",
+    "static/js/main.6c4b8d7c.chunk.js"
+  ]
+}
