@@ -12,9 +12,9 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={Directory} />
-          <Route exact path="/directory" component={Directory} />
-          <Route exact path="/search" component={Search} />
+          <Route exact path="/react-app-employee-management-system/" component={Directory} />
+          <Route exact path="/react-app-employee-management-system/directory" component={Directory} />
+          <Route exact path="/react-app-employee-management-system/search" component={Search} />
         </Wrapper>
         <Footer />
       </div>

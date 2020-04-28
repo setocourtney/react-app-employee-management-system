@@ -15,7 +15,7 @@ function Navbar() {
             <Link
               to="/"
               className={
-                window.location.pathname === "/" || window.location.pathname === "/directory"
+                window.location.pathname === "/react-app-employee-management-system/" || window.location.pathname === "/react-app-employee-management-system/directory"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -26,7 +26,7 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/search"
-              className={window.location.pathname === "/search" ? "nav-link active" : "nav-link"}
+              className={window.location.pathname === "/react-app-employee-management-system/search" ? "nav-link active" : "nav-link"}
             >
               Search
             </Link>
