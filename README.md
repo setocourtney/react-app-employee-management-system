@@ -1,6 +1,8 @@
 # react-app-employee-management-system
 React Application allowing user to filter and sort non-sensitive data for employees
 
+https://setocourtney.github.io/react-app-employee-management-system/
+
 ## User Interaction
 
 * Directory - view all employees in directory and sort alphabetically by Location or Name
